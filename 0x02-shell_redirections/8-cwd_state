@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#!/bin//bash
-=======
 #!/bin/bash
->>>>>>> 8728be70bbe2a601e89eb7c83cb2054f7418ea62
 ls -la > ls_cwd_content
